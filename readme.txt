@@ -3,4 +3,4 @@
  git is free software.version controller system
  ss.version controller system
  
- git trachk  chaneg
+ git trachk  chaneg  of file
